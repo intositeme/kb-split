@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name keebio)(type Legacy)(uri /Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri /Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
+)

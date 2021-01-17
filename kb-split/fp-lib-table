@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri /Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri /Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)

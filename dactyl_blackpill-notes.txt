@@ -1,0 +1,38 @@
+ dactyl_blackpill 
+    
+    MATRIX_COL_PINS { A15, B4, B5, B10, B0, A7 }
+    MATRIX_ROW_PINS { B12, B13, B15, A8, A10  }
+    MATRIX_COL_PINS_RIGHT { B10, B15, A10, A15, B3, B4 }
+    MATRIX_ROW_PINS_RIGHT { B0, A5, A4, A3 }
+    
+    PINS to avoid: C13, C15, B7, A0, A1 (something to do with PAL mode)
+                   B9, B6, 
+                   B1, (RGB)
+                   B9, (Connect to GND on the slave side)
+                   B6, (Serial pin - connect to vcc with a resistor [2.2k to 10k], 
+                        Connect to slave half through trrs)
+                   
+    
+
+    Blackpill                     
+
+B12 - row0    5v  - N/A              t - gnd 
+B13 - row1    GND - GND              r - serial (B6)
+B14 -         3.3 - VCC              r - rgb (B1)
+B15 - row2    B10 - col3             s - vcc 
+A8  - row3    B2  - N/A          
+A9  - N/A     B1  - RGB    
+A10 - row4    B0  - col4      
+A11 - N/A     A7  - col5   
+A12 - N/A     A6  -      
+A15 - col0    A5  -     
+B3  -         A4  -        
+B4  - col1    A3  - rot encoder         
+B5  - col2    A2  - rot encoder
+B6  - serial  A1  -
+B7  -         A0  -
+B8  -         R   - N/A 
+B9  - split   C15 - N/A 
+5v  - N/A     C14 - N/A 
+GND - GND     C13 - N/A 
+3.3 - VCC     VB  - N/A 
