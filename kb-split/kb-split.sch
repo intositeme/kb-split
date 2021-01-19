@@ -333,10 +333,10 @@ F 3 "~" V 7900 3150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW16
+L kb-split-rescue:SW_PUSH-kbd SW17
 U 1 1 600FFCD6
 P 7600 3050
-F 0 "SW16" H 7600 3305 50  0000 C CNN
+F 0 "SW17" H 7600 3305 50  0000 C CNN
 F 1 "SW_PUSH" H 7600 3214 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 7600 3050 50  0001 C CNN
 F 3 "" H 7600 3050 50  0000 C CNN
@@ -355,10 +355,10 @@ F 3 "~" V 6950 3150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW15
+L kb-split-rescue:SW_PUSH-kbd SW16
 U 1 1 600FFCEA
 P 6650 3050
-F 0 "SW15" H 6650 3305 50  0000 C CNN
+F 0 "SW16" H 6650 3305 50  0000 C CNN
 F 1 "SW_PUSH" H 6650 3214 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 6650 3050 50  0001 C CNN
 F 3 "" H 6650 3050 50  0000 C CNN
@@ -366,10 +366,10 @@ F 3 "" H 6650 3050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW20
+L kb-split-rescue:SW_PUSH-kbd SW21
 U 1 1 600FFCF4
 P 11250 3050
-F 0 "SW20" H 11250 3305 50  0000 C CNN
+F 0 "SW21" H 11250 3305 50  0000 C CNN
 F 1 "SW_PUSH" H 11250 3214 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 11250 3050 50  0001 C CNN
 F 3 "" H 11250 3050 50  0000 C CNN
@@ -388,10 +388,10 @@ F 3 "~" V 11550 3150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW19
+L kb-split-rescue:SW_PUSH-kbd SW20
 U 1 1 600FFD08
 P 10350 3050
-F 0 "SW19" H 10350 3305 50  0000 C CNN
+F 0 "SW20" H 10350 3305 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 3214 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 10350 3050 50  0001 C CNN
 F 3 "" H 10350 3050 50  0000 C CNN
@@ -410,10 +410,10 @@ F 3 "~" V 10650 3150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW17
+L kb-split-rescue:SW_PUSH-kbd SW18
 U 1 1 600FFD1C
 P 8500 3050
-F 0 "SW17" H 8500 3305 50  0000 C CNN
+F 0 "SW18" H 8500 3305 50  0000 C CNN
 F 1 "SW_PUSH" H 8500 3214 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 8500 3050 50  0001 C CNN
 F 3 "" H 8500 3050 50  0000 C CNN
@@ -432,10 +432,10 @@ F 3 "~" V 8800 3150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW18
+L kb-split-rescue:SW_PUSH-kbd SW19
 U 1 1 600FFD30
 P 9450 3050
-F 0 "SW18" H 9450 3305 50  0000 C CNN
+F 0 "SW19" H 9450 3305 50  0000 C CNN
 F 1 "SW_PUSH" H 9450 3214 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 9450 3050 50  0001 C CNN
 F 3 "" H 9450 3050 50  0000 C CNN
@@ -465,10 +465,10 @@ F 3 "~" V 7900 3900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW23
+L kb-split-rescue:SW_PUSH-kbd SW24
 U 1 1 60109204
 P 7600 3800
-F 0 "SW23" H 7600 4055 50  0000 C CNN
+F 0 "SW24" H 7600 4055 50  0000 C CNN
 F 1 "SW_PUSH" H 7600 3964 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 7600 3800 50  0001 C CNN
 F 3 "" H 7600 3800 50  0000 C CNN
@@ -487,10 +487,10 @@ F 3 "~" V 6950 3900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW22
+L kb-split-rescue:SW_PUSH-kbd SW23
 U 1 1 60109218
 P 6650 3800
-F 0 "SW22" H 6650 4055 50  0000 C CNN
+F 0 "SW23" H 6650 4055 50  0000 C CNN
 F 1 "SW_PUSH" H 6650 3964 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 6650 3800 50  0001 C CNN
 F 3 "" H 6650 3800 50  0000 C CNN
@@ -498,10 +498,10 @@ F 3 "" H 6650 3800 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW27
+L kb-split-rescue:SW_PUSH-kbd SW28
 U 1 1 60109222
 P 11250 3800
-F 0 "SW27" H 11250 4055 50  0000 C CNN
+F 0 "SW28" H 11250 4055 50  0000 C CNN
 F 1 "SW_PUSH" H 11250 3964 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 11250 3800 50  0001 C CNN
 F 3 "" H 11250 3800 50  0000 C CNN
@@ -520,10 +520,10 @@ F 3 "~" V 11550 3900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW26
+L kb-split-rescue:SW_PUSH-kbd SW27
 U 1 1 60109236
 P 10350 3800
-F 0 "SW26" H 10350 4055 50  0000 C CNN
+F 0 "SW27" H 10350 4055 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 3964 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 10350 3800 50  0001 C CNN
 F 3 "" H 10350 3800 50  0000 C CNN
@@ -542,10 +542,10 @@ F 3 "~" V 10650 3900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW24
+L kb-split-rescue:SW_PUSH-kbd SW25
 U 1 1 6010924A
 P 8500 3800
-F 0 "SW24" H 8500 4055 50  0000 C CNN
+F 0 "SW25" H 8500 4055 50  0000 C CNN
 F 1 "SW_PUSH" H 8500 3964 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 8500 3800 50  0001 C CNN
 F 3 "" H 8500 3800 50  0000 C CNN
@@ -564,10 +564,10 @@ F 3 "~" V 8800 3900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kb-split-rescue:SW_PUSH-kbd SW25
+L kb-split-rescue:SW_PUSH-kbd SW26
 U 1 1 6010925E
 P 9450 3800
-F 0 "SW25" H 9450 4055 50  0000 C CNN
+F 0 "SW26" H 9450 4055 50  0000 C CNN
 F 1 "SW_PUSH" H 9450 3964 50  0000 C CNN
 F 2 "reversible-kicad-footprints:MX-1U-Hotswap" H 9450 3800 50  0001 C CNN
 F 3 "" H 9450 3800 50  0000 C CNN
@@ -586,10 +586,10 @@ F 3 "~" V 9750 3900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:Rotary_Encoder_Switch SW21
+L Device:Rotary_Encoder_Switch SW15
 U 1 1 6012ADC9
 P 12950 3000
-F 0 "SW21" H 12850 3250 50  0000 L CNN
+F 0 "SW15" H 12850 3250 50  0000 L CNN
 F 1 "Rotary_Encoder_Switch" H 12550 3350 50  0000 L CNN
 F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 12800 3160 50  0001 C CNN
 F 3 "~" H 12950 3260 50  0001 C CNN
@@ -900,10 +900,10 @@ F 3 "" H 11900 5450 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR01
+L power:VCC #PWR017
 U 1 1 601E1C6C
 P 12700 6000
-F 0 "#PWR01" H 12700 5850 50  0001 C CNN
+F 0 "#PWR017" H 12700 5850 50  0001 C CNN
 F 1 "VCC" H 12700 6200 50  0000 C CNN
 F 2 "" H 12700 6000 50  0001 C CNN
 F 3 "" H 12700 6000 50  0001 C CNN
@@ -958,10 +958,10 @@ Wire Wire Line
 Wire Wire Line
 	9500 5700 9150 5700
 $Comp
-L power:GND #PWR02
+L power:GND #PWR016
 U 1 1 602682CF
 P 7850 5700
-F 0 "#PWR02" H 7850 5450 50  0001 C CNN
+F 0 "#PWR016" H 7850 5450 50  0001 C CNN
 F 1 "GND" H 7855 5527 50  0000 C CNN
 F 2 "" H 7850 5700 50  0001 C CNN
 F 3 "" H 7850 5700 50  0001 C CNN
@@ -995,17 +995,6 @@ F 1 "YS-SK6812MINI-E" V 8050 6550 29  0000 L CNN
 F 2 "reversible-kicad-footprints:MX-1U-SK6812Mini-E" H 7750 6500 50  0001 C CNN
 F 3 "" H 7750 6500 50  0001 C CNN
 	1    7650 6750
-	1    0    0    -1  
-$EndComp
-$Comp
-L kb-split-rescue:YS-SK6812MINI-E-kbd LED7
-U 1 1 60296775
-P 8500 6750
-F 0 "LED7" V 8850 6700 29  0000 L CNN
-F 1 "YS-SK6812MINI-E" V 8900 6550 29  0000 L CNN
-F 2 "reversible-kicad-footprints:MX-1U-SK6812Mini-E" H 8600 6500 50  0001 C CNN
-F 3 "" H 8600 6500 50  0001 C CNN
-	1    8500 6750
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1050,17 +1039,6 @@ F 1 "YS-SK6812MINI-E" V 10600 7450 29  0000 L CNN
 F 2 "reversible-kicad-footprints:MX-1U-SK6812Mini-E" H 10300 7400 50  0001 C CNN
 F 3 "" H 10300 7400 50  0001 C CNN
 	1    10200 7650
-	-1   0    0    -1  
-$EndComp
-$Comp
-L kb-split-rescue:YS-SK6812MINI-E-kbd LED15
-U 1 1 602ACE87
-P 9350 7650
-F 0 "LED15" V 9700 7600 29  0000 L CNN
-F 1 "YS-SK6812MINI-E" V 9750 7450 29  0000 L CNN
-F 2 "reversible-kicad-footprints:MX-1U-SK6812Mini-E" H 9450 7400 50  0001 C CNN
-F 3 "" H 9450 7400 50  0001 C CNN
-	1    9350 7650
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -1168,7 +1146,7 @@ U 1 1 602BA222
 P 11900 8550
 F 0 "LED25" V 12250 8500 29  0000 L CNN
 F 1 "YS-SK6812MINI-E" V 12300 8350 29  0000 L CNN
-F 2 "reversible-kicad-footprints:MX-1U-SK6812Mini-E" H 12000 8300 50  0001 C CNN
+F 2 "reversible-kicad-footprints:SK6812Mini-E" H 12000 8300 50  0001 C CNN
 F 3 "" H 12000 8300 50  0001 C CNN
 	1    11900 8550
 	1    0    0    -1  
@@ -1291,10 +1269,10 @@ Wire Wire Line
 	7350 9450 7100 9450
 NoConn ~ 6500 9450
 $Comp
-L power:VCC #PWR03
+L power:VCC #PWR019
 U 1 1 60524C71
 P 12650 6450
-F 0 "#PWR03" H 12650 6300 50  0001 C CNN
+F 0 "#PWR019" H 12650 6300 50  0001 C CNN
 F 1 "VCC" H 12650 6650 50  0000 C CNN
 F 2 "" H 12650 6450 50  0001 C CNN
 F 3 "" H 12650 6450 50  0001 C CNN
@@ -1302,10 +1280,10 @@ F 3 "" H 12650 6450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR04
+L power:VCC #PWR021
 U 1 1 605350FD
 P 12650 7350
-F 0 "#PWR04" H 12650 7200 50  0001 C CNN
+F 0 "#PWR021" H 12650 7200 50  0001 C CNN
 F 1 "VCC" H 12650 7550 50  0000 C CNN
 F 2 "" H 12650 7350 50  0001 C CNN
 F 3 "" H 12650 7350 50  0001 C CNN
@@ -1313,10 +1291,10 @@ F 3 "" H 12650 7350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR06
+L power:VCC #PWR025
 U 1 1 60547496
 P 11450 9150
-F 0 "#PWR06" H 11450 9000 50  0001 C CNN
+F 0 "#PWR025" H 11450 9000 50  0001 C CNN
 F 1 "VCC" H 11450 9350 50  0000 C CNN
 F 2 "" H 11450 9150 50  0001 C CNN
 F 3 "" H 11450 9150 50  0001 C CNN
@@ -1326,26 +1304,22 @@ $EndComp
 Wire Wire Line
 	12200 8550 12200 9450
 $Comp
-L power:GND #PWR07
+L power:GND #PWR026
 U 1 1 6061394E
 P 6200 10150
-F 0 "#PWR07" H 6200 9900 50  0001 C CNN
+F 0 "#PWR026" H 6200 9900 50  0001 C CNN
 F 1 "GND" H 6205 9977 50  0000 C CNN
 F 2 "" H 6200 10150 50  0001 C CNN
 F 3 "" H 6200 10150 50  0001 C CNN
 	1    6200 10150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6800 7050 7300 7050
 Connection ~ 7650 7050
-Connection ~ 8500 7050
 Connection ~ 9350 7050
 Connection ~ 6800 7050
 Connection ~ 6800 7950
 Connection ~ 7650 7950
 Connection ~ 8500 7950
-Connection ~ 9350 7950
 Connection ~ 10200 7950
 Connection ~ 11050 7950
 Wire Wire Line
@@ -1359,22 +1333,14 @@ Connection ~ 6200 8850
 Wire Wire Line
 	6200 8850 6200 7950
 Connection ~ 6800 8850
-Wire Wire Line
-	6800 8850 7200 8850
 Connection ~ 7650 8850
 Connection ~ 8500 8850
 Connection ~ 9350 8850
-Wire Wire Line
-	9350 8850 9750 8850
 Connection ~ 10200 8850
 Wire Wire Line
 	10200 8850 10600 8850
 Connection ~ 11050 8850
-Wire Wire Line
-	11050 8850 11450 8850
 Connection ~ 7650 9750
-Wire Wire Line
-	7650 9750 7200 9750
 Connection ~ 8500 9750
 Wire Wire Line
 	8500 9750 8050 9750
@@ -1395,10 +1361,10 @@ Wire Wire Line
 Wire Wire Line
 	8550 5700 8550 6100
 $Comp
-L power:GND #PWR0101
+L power:GND #PWR06
 U 1 1 607E1D4D
 P 13150 2100
-F 0 "#PWR0101" H 13150 1850 50  0001 C CNN
+F 0 "#PWR06" H 13150 1850 50  0001 C CNN
 F 1 "GND" H 13155 1927 50  0000 C CNN
 F 2 "" H 13150 2100 50  0001 C CNN
 F 3 "" H 13150 2100 50  0001 C CNN
@@ -1414,10 +1380,10 @@ ENC0
 Text GLabel 12850 2700 1    50   Input ~ 0
 ENC1
 $Comp
-L Connector:Conn_01x03_Male J1
+L Connector:Conn_01x03_Male J2
 U 1 1 6088D94E
 P 3900 4300
-F 0 "J1" H 4008 4581 50  0000 C CNN
+F 0 "J2" H 4008 4581 50  0000 C CNN
 F 1 "Conn_01x03_Male" H 4008 4490 50  0000 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal" H 3900 4300 50  0001 C CNN
 F 3 "~" H 3900 4300 50  0001 C CNN
@@ -1425,10 +1391,10 @@ F 3 "~" H 3900 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0105
+L power:GND #PWR014
 U 1 1 608B623C
 P 4100 4400
-F 0 "#PWR0105" H 4100 4150 50  0001 C CNN
+F 0 "#PWR014" H 4100 4150 50  0001 C CNN
 F 1 "GND" H 4105 4227 50  0000 C CNN
 F 2 "" H 4100 4400 50  0001 C CNN
 F 3 "" H 4100 4400 50  0001 C CNN
@@ -1436,10 +1402,10 @@ F 3 "" H 4100 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR0106
+L power:VCC #PWR013
 U 1 1 608B7084
 P 4700 4300
-F 0 "#PWR0106" H 4700 4150 50  0001 C CNN
+F 0 "#PWR013" H 4700 4150 50  0001 C CNN
 F 1 "VCC" H 4715 4473 50  0000 C CNN
 F 2 "" H 4700 4300 50  0001 C CNN
 F 3 "" H 4700 4300 50  0001 C CNN
@@ -1468,10 +1434,10 @@ $EndComp
 Text GLabel 3700 1100 0    50   Input ~ 0
 MISO
 $Comp
-L power:VCC #PWR09
+L power:VCC #PWR03
 U 1 1 600E755F
 P 4400 1100
-F 0 "#PWR09" H 4400 950 50  0001 C CNN
+F 0 "#PWR03" H 4400 950 50  0001 C CNN
 F 1 "VCC" H 4415 1273 50  0000 C CNN
 F 2 "" H 4400 1100 50  0001 C CNN
 F 3 "" H 4400 1100 50  0001 C CNN
@@ -1479,10 +1445,10 @@ F 3 "" H 4400 1100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR08
+L power:GND #PWR04
 U 1 1 600E8960
 P 4200 1300
-F 0 "#PWR08" H 4200 1050 50  0001 C CNN
+F 0 "#PWR04" H 4200 1050 50  0001 C CNN
 F 1 "GND" H 4205 1127 50  0000 C CNN
 F 2 "" H 4200 1300 50  0001 C CNN
 F 3 "" H 4200 1300 50  0001 C CNN
@@ -1502,10 +1468,10 @@ Connection ~ 3050 6350
 Wire Wire Line
 	3050 6350 2950 6350
 $Comp
-L power:GND #PWR0102
+L power:GND #PWR027
 U 1 1 6019E10D
 P 2950 10250
-F 0 "#PWR0102" H 2950 10000 50  0001 C CNN
+F 0 "#PWR027" H 2950 10000 50  0001 C CNN
 F 1 "GND" H 2955 10077 50  0000 C CNN
 F 2 "" H 2950 10250 50  0001 C CNN
 F 3 "" H 2950 10250 50  0001 C CNN
@@ -1545,10 +1511,10 @@ F 3 "~" H 4100 8750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR0103
+L power:GND #PWR024
 U 1 1 6020E7CE
 P 4450 8750
-F 0 "#PWR0103" H 4450 8500 50  0001 C CNN
+F 0 "#PWR024" H 4450 8500 50  0001 C CNN
 F 1 "GND" H 4455 8577 50  0000 C CNN
 F 2 "" H 4450 8750 50  0001 C CNN
 F 3 "" H 4450 8750 50  0001 C CNN
@@ -1597,10 +1563,10 @@ F 3 "~" H 2500 1150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR0104
+L power:GND #PWR08
 U 1 1 602E5C76
 P 1700 2650
-F 0 "#PWR0104" H 1700 2400 50  0001 C CNN
+F 0 "#PWR08" H 1700 2400 50  0001 C CNN
 F 1 "GND" H 1705 2477 50  0000 C CNN
 F 2 "" H 1700 2650 50  0001 C CNN
 F 3 "" H 1700 2650 50  0001 C CNN
@@ -1645,10 +1611,10 @@ Connection ~ 2150 1750
 Wire Wire Line
 	2150 1750 2000 1750
 $Comp
-L power:GND #PWR0107
+L power:GND #PWR05
 U 1 1 603AE0B4
 P 2850 1350
-F 0 "#PWR0107" H 2850 1100 50  0001 C CNN
+F 0 "#PWR05" H 2850 1100 50  0001 C CNN
 F 1 "GND" H 2855 1177 50  0000 C CNN
 F 2 "" H 2850 1350 50  0001 C CNN
 F 3 "" H 2850 1350 50  0001 C CNN
@@ -1667,10 +1633,10 @@ F 3 "~" H 2250 1350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:+5V #PWR0108
+L power:+5V #PWR02
 U 1 1 603B0765
 P 2850 950
-F 0 "#PWR0108" H 2850 800 50  0001 C CNN
+F 0 "#PWR02" H 2850 800 50  0001 C CNN
 F 1 "+5V" H 2865 1123 50  0000 C CNN
 F 2 "" H 2850 950 50  0001 C CNN
 F 3 "" H 2850 950 50  0001 C CNN
@@ -1704,10 +1670,10 @@ Wire Wire Line
 Wire Wire Line
 	2650 1350 2850 1350
 $Comp
-L power:+5V #PWR0109
+L power:+5V #PWR018
 U 1 1 6047DBEA
 P 2950 6200
-F 0 "#PWR0109" H 2950 6050 50  0001 C CNN
+F 0 "#PWR018" H 2950 6050 50  0001 C CNN
 F 1 "+5V" H 2965 6373 50  0000 C CNN
 F 2 "" H 2950 6200 50  0001 C CNN
 F 3 "" H 2950 6200 50  0001 C CNN
@@ -1715,10 +1681,10 @@ F 3 "" H 2950 6200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR0110
+L power:VCC #PWR01
 U 1 1 6047ECA2
 P 2200 950
-F 0 "#PWR0110" H 2200 800 50  0001 C CNN
+F 0 "#PWR01" H 2200 800 50  0001 C CNN
 F 1 "VCC" H 2215 1123 50  0000 C CNN
 F 2 "" H 2200 950 50  0001 C CNN
 F 3 "" H 2200 950 50  0001 C CNN
@@ -1728,10 +1694,10 @@ $EndComp
 Wire Wire Line
 	2850 950  2850 1150
 $Comp
-L Device:C_Small C7
+L Device:C_Small C15
 U 1 1 60534B4F
 P 2050 8050
-F 0 "C7" H 2142 8096 50  0000 L CNN
+F 0 "C15" H 2142 8096 50  0000 L CNN
 F 1 "1uF" H 2142 8005 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 2050 8050 50  0001 C CNN
 F 3 "~" H 2050 8050 50  0001 C CNN
@@ -1739,10 +1705,10 @@ F 3 "~" H 2050 8050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0111
+L power:GND #PWR023
 U 1 1 60536267
 P 2050 8400
-F 0 "#PWR0111" H 2050 8150 50  0001 C CNN
+F 0 "#PWR023" H 2050 8150 50  0001 C CNN
 F 1 "GND" H 2055 8227 50  0000 C CNN
 F 2 "" H 2050 8400 50  0001 C CNN
 F 3 "" H 2050 8400 50  0001 C CNN
@@ -1798,10 +1764,10 @@ F 3 "~" H 4600 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR0112
+L power:+5V #PWR09
 U 1 1 605832FB
 P 4000 3050
-F 0 "#PWR0112" H 4000 2900 50  0001 C CNN
+F 0 "#PWR09" H 4000 2900 50  0001 C CNN
 F 1 "+5V" H 4015 3223 50  0000 C CNN
 F 2 "" H 4000 3050 50  0001 C CNN
 F 3 "" H 4000 3050 50  0001 C CNN
@@ -1809,10 +1775,10 @@ F 3 "" H 4000 3050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0113
+L power:GND #PWR012
 U 1 1 60584820
 P 4000 3400
-F 0 "#PWR0113" H 4000 3150 50  0001 C CNN
+F 0 "#PWR012" H 4000 3150 50  0001 C CNN
 F 1 "GND" H 4005 3227 50  0000 C CNN
 F 2 "" H 4000 3400 50  0001 C CNN
 F 3 "" H 4000 3400 50  0001 C CNN
@@ -1846,10 +1812,10 @@ Connection ~ 4000 3100
 Wire Wire Line
 	4000 3100 4200 3100
 $Comp
-L power:+5V #PWR0114
+L power:+5V #PWR020
 U 1 1 605EA7FB
 P 1450 7250
-F 0 "#PWR0114" H 1450 7100 50  0001 C CNN
+F 0 "#PWR020" H 1450 7100 50  0001 C CNN
 F 1 "+5V" H 1465 7423 50  0000 C CNN
 F 2 "" H 1450 7250 50  0001 C CNN
 F 3 "" H 1450 7250 50  0001 C CNN
@@ -1912,10 +1878,10 @@ Wire Wire Line
 	3850 2350 4250 2350
 Connection ~ 3850 2350
 $Comp
-L power:GND #PWR0115
+L power:GND #PWR07
 U 1 1 606CC2BD
 P 4700 2500
-F 0 "#PWR0115" H 4700 2250 50  0001 C CNN
+F 0 "#PWR07" H 4700 2250 50  0001 C CNN
 F 1 "GND" H 4705 2327 50  0000 C CNN
 F 2 "" H 4700 2500 50  0001 C CNN
 F 3 "" H 4700 2500 50  0001 C CNN
@@ -1942,10 +1908,10 @@ Wire Wire Line
 Text GLabel 2200 3400 2    50   Input ~ 0
 RESET
 $Comp
-L kbd:SW_PUSH SW28
+L kbd:SW_PUSH SW22
 U 1 1 60820895
 P 1600 3400
-F 0 "SW28" H 1600 3655 50  0000 C CNN
+F 0 "SW22" H 1600 3655 50  0000 C CNN
 F 1 "SW_PUSH" H 1600 3564 50  0000 C CNN
 F 2 "reversible-kicad-footprints:SMD_Push" H 1600 3400 50  0001 C CNN
 F 3 "" H 1600 3400 50  0000 C CNN
@@ -1953,10 +1919,10 @@ F 3 "" H 1600 3400 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0116
+L power:GND #PWR011
 U 1 1 608210AB
 P 1050 3400
-F 0 "#PWR0116" H 1050 3150 50  0001 C CNN
+F 0 "#PWR011" H 1050 3150 50  0001 C CNN
 F 1 "GND" H 1055 3227 50  0000 C CNN
 F 2 "" H 1050 3400 50  0001 C CNN
 F 3 "" H 1050 3400 50  0001 C CNN
@@ -1982,10 +1948,10 @@ Connection ~ 2000 3400
 Wire Wire Line
 	2000 3400 2200 3400
 $Comp
-L power:+5V #PWR0117
+L power:+5V #PWR010
 U 1 1 6085CA7D
 P 2000 3200
-F 0 "#PWR0117" H 2000 3050 50  0001 C CNN
+F 0 "#PWR010" H 2000 3050 50  0001 C CNN
 F 1 "+5V" H 2015 3373 50  0000 C CNN
 F 2 "" H 2000 3200 50  0001 C CNN
 F 3 "" H 2000 3200 50  0001 C CNN
@@ -2032,10 +1998,10 @@ NoConn ~ 3650 6650
 NoConn ~ 15050 5500
 NoConn ~ 3650 8150
 $Comp
-L power:GND #PWR0118
+L power:GND #PWR015
 U 1 1 60090AF5
 P 1600 5300
-F 0 "#PWR0118" H 1600 5050 50  0001 C CNN
+F 0 "#PWR015" H 1600 5050 50  0001 C CNN
 F 1 "GND" H 1605 5127 50  0000 C CNN
 F 2 "" H 1600 5300 50  0001 C CNN
 F 3 "" H 1600 5300 50  0001 C CNN
@@ -2074,14 +2040,10 @@ F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 1600 4800 50  0001 C 
 $EndComp
 NoConn ~ 1100 4900
 NoConn ~ 2100 4700
-Wire Wire Line
-	11050 7050 11550 7050
 Connection ~ 11050 7050
 Connection ~ 10200 7050
 Wire Wire Line
 	10200 7050 10700 7050
-Wire Wire Line
-	9350 7050 9850 7050
 $Comp
 L kb-split-rescue:YS-SK6812MINI-E-kbd LED11
 U 1 1 6029CF7A
@@ -2116,18 +2078,14 @@ F 3 "" H 10300 6500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8850 5400 9250 5400
-Wire Wire Line
-	10800 5400 11200 5400
-Wire Wire Line
 	9800 5400 10200 5400
 Wire Wire Line
 	12700 6000 12200 6000
 $Comp
-L Device:C_Small C18
+L Device:C_Small C11
 U 1 1 602255B6
 P 12350 6550
-F 0 "C18" H 12442 6596 50  0000 L CNN
+F 0 "C11" H 12442 6596 50  0000 L CNN
 F 1 "0.1uF" H 12442 6505 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 12350 6550 50  0001 C CNN
 F 3 "~" H 12350 6550 50  0001 C CNN
@@ -2135,21 +2093,10 @@ F 3 "~" H 12350 6550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C17
-U 1 1 60276B9B
-P 11550 6550
-F 0 "C17" H 11642 6596 50  0000 L CNN
-F 1 "0.1uF" H 11642 6505 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 11550 6550 50  0001 C CNN
-F 3 "~" H 11550 6550 50  0001 C CNN
-	1    11550 6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C16
+L Device:C_Small C10
 U 1 1 602771A9
 P 10700 6550
-F 0 "C16" H 10792 6596 50  0000 L CNN
+F 0 "C10" H 10792 6596 50  0000 L CNN
 F 1 "0.1uF" H 10792 6505 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 10700 6550 50  0001 C CNN
 F 3 "~" H 10700 6550 50  0001 C CNN
@@ -2157,21 +2104,10 @@ F 3 "~" H 10700 6550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C15
-U 1 1 602771C1
-P 9850 6550
-F 0 "C15" H 9942 6596 50  0000 L CNN
-F 1 "0.1uF" H 9942 6505 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 9850 6550 50  0001 C CNN
-F 3 "~" H 9850 6550 50  0001 C CNN
-	1    9850 6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C14
+L Device:C_Small C9
 U 1 1 60293F63
 P 9000 6550
-F 0 "C14" H 9092 6596 50  0000 L CNN
+F 0 "C9" H 9092 6596 50  0000 L CNN
 F 1 "0.1uF" H 9092 6505 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 9000 6550 50  0001 C CNN
 F 3 "~" H 9000 6550 50  0001 C CNN
@@ -2179,32 +2115,10 @@ F 3 "~" H 9000 6550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C13
-U 1 1 60293F7B
-P 8150 6550
-F 0 "C13" H 8242 6596 50  0000 L CNN
-F 1 "0.1uF" H 8242 6505 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 8150 6550 50  0001 C CNN
-F 3 "~" H 8150 6550 50  0001 C CNN
-	1    8150 6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C12
-U 1 1 60293F85
-P 7300 6550
-F 0 "C12" H 7392 6596 50  0000 L CNN
-F 1 "0.1uF" H 7392 6505 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 7300 6550 50  0001 C CNN
-F 3 "~" H 7300 6550 50  0001 C CNN
-	1    7300 6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C25
+L Device:C_Small C14
 U 1 1 602B3EDD
 P 12350 7450
-F 0 "C25" H 12442 7496 50  0000 L CNN
+F 0 "C14" H 12442 7496 50  0000 L CNN
 F 1 "0.1uF" H 12442 7405 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 12350 7450 50  0001 C CNN
 F 3 "~" H 12350 7450 50  0001 C CNN
@@ -2212,21 +2126,10 @@ F 3 "~" H 12350 7450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C24
-U 1 1 602B3EF5
-P 11400 7450
-F 0 "C24" H 11492 7496 50  0000 L CNN
-F 1 "0.1uF" H 11492 7405 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 11400 7450 50  0001 C CNN
-F 3 "~" H 11400 7450 50  0001 C CNN
-	1    11400 7450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C23
+L Device:C_Small C13
 U 1 1 602B3EFF
 P 10550 7450
-F 0 "C23" H 10642 7496 50  0000 L CNN
+F 0 "C13" H 10642 7496 50  0000 L CNN
 F 1 "0.1uF" H 10642 7405 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 10550 7450 50  0001 C CNN
 F 3 "~" H 10550 7450 50  0001 C CNN
@@ -2234,21 +2137,10 @@ F 3 "~" H 10550 7450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C22
-U 1 1 602B3F09
-P 9700 7450
-F 0 "C22" H 9792 7496 50  0000 L CNN
-F 1 "0.1uF" H 9792 7405 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 9700 7450 50  0001 C CNN
-F 3 "~" H 9700 7450 50  0001 C CNN
-	1    9700 7450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C21
+L Device:C_Small C12
 U 1 1 602B3F13
 P 8850 7450
-F 0 "C21" H 8942 7496 50  0000 L CNN
+F 0 "C12" H 8942 7496 50  0000 L CNN
 F 1 "0.1uF" H 8942 7405 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 8850 7450 50  0001 C CNN
 F 3 "~" H 8850 7450 50  0001 C CNN
@@ -2256,21 +2148,10 @@ F 3 "~" H 8850 7450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C20
-U 1 1 602B3F1D
-P 8000 7450
-F 0 "C20" H 8092 7496 50  0000 L CNN
-F 1 "0.1uF" H 8092 7405 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 8000 7450 50  0001 C CNN
-F 3 "~" H 8000 7450 50  0001 C CNN
-	1    8000 7450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C38
+L Device:C_Small C21
 U 1 1 602F20A3
 P 11450 9250
-F 0 "C38" H 11542 9296 50  0000 L CNN
+F 0 "C21" H 11542 9296 50  0000 L CNN
 F 1 "0.1uF" H 11542 9205 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 11450 9250 50  0001 C CNN
 F 3 "~" H 11450 9250 50  0001 C CNN
@@ -2278,21 +2159,10 @@ F 3 "~" H 11450 9250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C37
-U 1 1 602F20BB
-P 10600 9250
-F 0 "C37" H 10692 9296 50  0000 L CNN
-F 1 "0.1uF" H 10692 9205 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 10600 9250 50  0001 C CNN
-F 3 "~" H 10600 9250 50  0001 C CNN
-	1    10600 9250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C36
+L Device:C_Small C20
 U 1 1 602F20C5
 P 9750 9250
-F 0 "C36" H 9842 9296 50  0000 L CNN
+F 0 "C20" H 9842 9296 50  0000 L CNN
 F 1 "0.1uF" H 9842 9205 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 9750 9250 50  0001 C CNN
 F 3 "~" H 9750 9250 50  0001 C CNN
@@ -2300,21 +2170,10 @@ F 3 "~" H 9750 9250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C35
-U 1 1 602F20CF
-P 8900 9250
-F 0 "C35" H 8992 9296 50  0000 L CNN
-F 1 "0.1uF" H 8992 9205 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 8900 9250 50  0001 C CNN
-F 3 "~" H 8900 9250 50  0001 C CNN
-	1    8900 9250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C34
+L Device:C_Small C19
 U 1 1 602F20D9
 P 8050 9250
-F 0 "C34" H 8142 9296 50  0000 L CNN
+F 0 "C19" H 8142 9296 50  0000 L CNN
 F 1 "0.1uF" H 8142 9205 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 8050 9250 50  0001 C CNN
 F 3 "~" H 8050 9250 50  0001 C CNN
@@ -2322,32 +2181,10 @@ F 3 "~" H 8050 9250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C33
-U 1 1 602F20E3
-P 7200 9250
-F 0 "C33" H 7292 9296 50  0000 L CNN
-F 1 "0.1uF" H 7292 9205 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 7200 9250 50  0001 C CNN
-F 3 "~" H 7200 9250 50  0001 C CNN
-	1    7200 9250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C8
-U 1 1 60311892
-P 9250 5500
-F 0 "C8" H 9342 5546 50  0000 L CNN
-F 1 "0.1uF" H 9342 5455 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 9250 5500 50  0001 C CNN
-F 3 "~" H 9250 5500 50  0001 C CNN
-	1    9250 5500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:C_Small C9
+L Device:C_Small C7
 U 1 1 603118AA
 P 10200 5500
-F 0 "C9" H 10292 5546 50  0000 L CNN
+F 0 "C7" H 10292 5546 50  0000 L CNN
 F 1 "0.1uF" H 10292 5455 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 10200 5500 50  0001 C CNN
 F 3 "~" H 10200 5500 50  0001 C CNN
@@ -2355,21 +2192,10 @@ F 3 "~" H 10200 5500 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:C_Small C10
-U 1 1 603118B4
-P 11200 5500
-F 0 "C10" H 11292 5546 50  0000 L CNN
-F 1 "0.1uF" H 11292 5455 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 11200 5500 50  0001 C CNN
-F 3 "~" H 11200 5500 50  0001 C CNN
-	1    11200 5500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:C_Small C11
+L Device:C_Small C8
 U 1 1 603118BE
 P 12200 5500
-F 0 "C11" H 12292 5546 50  0000 L CNN
+F 0 "C8" H 12292 5546 50  0000 L CNN
 F 1 "0.1uF" H 12292 5455 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 12200 5500 50  0001 C CNN
 F 3 "~" H 12200 5500 50  0001 C CNN
@@ -2387,32 +2213,17 @@ F 3 "~" H 3900 1200 50  0001 C CNN
 	1    3900 1200
 	1    0    0    -1  
 $EndComp
-Connection ~ 9250 5400
-Wire Wire Line
-	9250 5400 9800 5400
 Connection ~ 10200 5400
 Wire Wire Line
 	10200 5400 10800 5400
-Connection ~ 11200 5400
-Wire Wire Line
-	11200 5400 11800 5400
 Wire Wire Line
 	12200 5400 11800 5400
 Connection ~ 11800 5400
 Wire Wire Line
 	12200 5600 12200 6000
 Connection ~ 12200 6000
-Wire Wire Line
-	8850 6000 9250 6000
 Connection ~ 9800 6000
-Wire Wire Line
-	10800 6000 11200 6000
 Connection ~ 10800 6000
-Wire Wire Line
-	11200 5600 11200 6000
-Connection ~ 11200 6000
-Wire Wire Line
-	11200 6000 11800 6000
 Wire Wire Line
 	10200 5600 10200 6000
 Wire Wire Line
@@ -2421,54 +2232,24 @@ Connection ~ 10200 6000
 Wire Wire Line
 	10200 6000 10800 6000
 Wire Wire Line
-	9250 5600 9250 6000
-Connection ~ 9250 6000
-Wire Wire Line
-	9250 6000 9800 6000
-Wire Wire Line
 	11800 6000 12200 6000
 Connection ~ 11800 6000
 Connection ~ 11900 6450
 Wire Wire Line
 	6100 6750 6500 6750
 Wire Wire Line
-	7300 6650 7300 7050
-Connection ~ 7300 7050
-Wire Wire Line
-	7300 7050 7650 7050
-Wire Wire Line
-	8150 6650 8150 7050
-Wire Wire Line
-	7650 7050 8150 7050
-Connection ~ 8150 7050
-Wire Wire Line
-	8150 7050 8500 7050
-Wire Wire Line
 	9000 6650 9000 7050
-Wire Wire Line
-	8500 7050 9000 7050
 Connection ~ 9000 7050
 Wire Wire Line
 	9000 7050 9350 7050
-Wire Wire Line
-	9850 6650 9850 7050
-Connection ~ 9850 7050
-Wire Wire Line
-	9850 7050 10200 7050
 Wire Wire Line
 	10700 6650 10700 7050
 Connection ~ 10700 7050
 Wire Wire Line
 	10700 7050 11050 7050
-Wire Wire Line
-	11550 6650 11550 7050
-Connection ~ 11550 7050
-Wire Wire Line
-	11550 7050 11900 7050
 Connection ~ 11050 6450
 Connection ~ 10200 6450
 Connection ~ 7650 6450
-Connection ~ 8500 6450
 Connection ~ 9350 6450
 Connection ~ 7650 8250
 Connection ~ 8500 8250
@@ -2477,10 +2258,10 @@ Connection ~ 10200 8250
 Connection ~ 11050 8250
 Connection ~ 11900 8250
 $Comp
-L power:VCC #PWR05
+L power:VCC #PWR022
 U 1 1 6053DC2B
 P 12650 8200
-F 0 "#PWR05" H 12650 8050 50  0001 C CNN
+F 0 "#PWR022" H 12650 8050 50  0001 C CNN
 F 1 "VCC" H 12650 8400 50  0000 C CNN
 F 2 "" H 12650 8200 50  0001 C CNN
 F 3 "" H 12650 8200 50  0001 C CNN
@@ -2500,135 +2281,39 @@ Connection ~ 11900 7950
 Wire Wire Line
 	12200 7650 12200 6750
 Wire Wire Line
-	7650 7950 8000 7950
-Wire Wire Line
 	11900 8250 12300 8250
 Wire Wire Line
-	9350 7950 9700 7950
-Wire Wire Line
 	10200 7950 10550 7950
-Wire Wire Line
-	11050 7950 11400 7950
-$Comp
-L Device:C_Small C19
-U 1 1 602B3F27
-P 7150 7450
-F 0 "C19" H 7242 7496 50  0000 L CNN
-F 1 "0.1uF" H 7242 7405 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 7150 7450 50  0001 C CNN
-F 3 "~" H 7150 7450 50  0001 C CNN
-	1    7150 7450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11900 7350 11400 7350
 Connection ~ 11900 7350
-Connection ~ 7150 7350
-Wire Wire Line
-	7150 7350 6800 7350
 Connection ~ 7650 7350
-Wire Wire Line
-	7650 7350 7150 7350
-Connection ~ 8000 7350
-Wire Wire Line
-	8000 7350 7650 7350
 Connection ~ 8500 7350
-Wire Wire Line
-	8500 7350 8000 7350
 Connection ~ 8850 7350
 Wire Wire Line
 	8850 7350 8500 7350
-Connection ~ 9350 7350
-Wire Wire Line
-	9350 7350 8850 7350
-Connection ~ 9700 7350
-Wire Wire Line
-	9700 7350 9350 7350
 Connection ~ 10200 7350
-Wire Wire Line
-	10200 7350 9700 7350
 Connection ~ 10550 7350
 Wire Wire Line
 	10550 7350 10200 7350
 Connection ~ 11050 7350
 Wire Wire Line
 	11050 7350 10550 7350
-Connection ~ 11400 7350
-Wire Wire Line
-	11400 7350 11050 7350
-Wire Wire Line
-	7150 7550 7150 7950
-Wire Wire Line
-	6800 7950 7150 7950
-Connection ~ 7150 7950
-Wire Wire Line
-	7150 7950 7650 7950
-Wire Wire Line
-	8000 7550 8000 7950
-Connection ~ 8000 7950
-Wire Wire Line
-	8000 7950 8500 7950
 Wire Wire Line
 	8850 7550 8850 7950
 Wire Wire Line
 	8500 7950 8850 7950
 Connection ~ 8850 7950
 Wire Wire Line
-	8850 7950 9350 7950
-Wire Wire Line
-	9700 7550 9700 7950
-Connection ~ 9700 7950
-Wire Wire Line
-	9700 7950 10200 7950
-Wire Wire Line
 	10550 7550 10550 7950
 Connection ~ 10550 7950
 Wire Wire Line
 	10550 7950 11050 7950
 Wire Wire Line
-	11400 7550 11400 7950
-Connection ~ 11400 7950
-Wire Wire Line
-	11400 7950 11900 7950
-Wire Wire Line
-	11050 8250 11450 8250
-Wire Wire Line
-	10200 8250 10600 8250
-Wire Wire Line
-	9350 8250 9750 8250
-Wire Wire Line
 	8500 8250 8900 8250
-Wire Wire Line
-	7650 8250 8050 8250
-Wire Wire Line
-	6800 8250 7200 8250
 $Comp
-L Device:C_Small C26
-U 1 1 602D1BEA
-P 7200 8350
-F 0 "C26" H 7292 8396 50  0000 L CNN
-F 1 "0.1uF" H 7292 8305 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 7200 8350 50  0001 C CNN
-F 3 "~" H 7200 8350 50  0001 C CNN
-	1    7200 8350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C27
-U 1 1 602D1BE0
-P 8050 8350
-F 0 "C27" H 8142 8396 50  0000 L CNN
-F 1 "0.1uF" H 8142 8305 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 8050 8350 50  0001 C CNN
-F 3 "~" H 8050 8350 50  0001 C CNN
-	1    8050 8350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C28
+L Device:C_Small C16
 U 1 1 602D1BD6
 P 8900 8350
-F 0 "C28" H 8992 8396 50  0000 L CNN
+F 0 "C16" H 8992 8396 50  0000 L CNN
 F 1 "0.1uF" H 8992 8305 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 8900 8350 50  0001 C CNN
 F 3 "~" H 8900 8350 50  0001 C CNN
@@ -2636,67 +2321,19 @@ F 3 "~" H 8900 8350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C29
-U 1 1 602D1BCC
-P 9750 8350
-F 0 "C29" H 9842 8396 50  0000 L CNN
-F 1 "0.1uF" H 9842 8305 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 9750 8350 50  0001 C CNN
-F 3 "~" H 9750 8350 50  0001 C CNN
-	1    9750 8350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C30
-U 1 1 602D1BC2
-P 10600 8350
-F 0 "C30" H 10692 8396 50  0000 L CNN
-F 1 "0.1uF" H 10692 8305 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 10600 8350 50  0001 C CNN
-F 3 "~" H 10600 8350 50  0001 C CNN
-	1    10600 8350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C31
-U 1 1 602D1BB8
-P 11450 8350
-F 0 "C31" H 11542 8396 50  0000 L CNN
-F 1 "0.1uF" H 11542 8305 50  0000 L CNN
-F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 11450 8350 50  0001 C CNN
-F 3 "~" H 11450 8350 50  0001 C CNN
-	1    11450 8350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C32
+L Device:C_Small C18
 U 1 1 602D1BA0
 P 12300 8350
-F 0 "C32" H 12392 8396 50  0000 L CNN
+F 0 "C18" H 12392 8396 50  0000 L CNN
 F 1 "0.1uF" H 12392 8305 50  0000 L CNN
 F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 12300 8350 50  0001 C CNN
 F 3 "~" H 12300 8350 50  0001 C CNN
 	1    12300 8350
 	1    0    0    -1  
 $EndComp
-Connection ~ 7200 8250
-Wire Wire Line
-	7200 8250 7650 8250
-Connection ~ 8050 8250
-Wire Wire Line
-	8050 8250 8500 8250
 Connection ~ 8900 8250
 Wire Wire Line
 	8900 8250 9350 8250
-Connection ~ 9750 8250
-Wire Wire Line
-	9750 8250 10200 8250
-Connection ~ 10600 8250
-Wire Wire Line
-	10600 8250 11050 8250
-Connection ~ 11450 8250
-Wire Wire Line
-	11450 8250 11900 8250
 Connection ~ 12300 8250
 Wire Wire Line
 	12650 8250 12650 8200
@@ -2708,20 +2345,10 @@ Wire Wire Line
 	12300 8850 12300 8450
 Connection ~ 11900 8850
 Wire Wire Line
-	11450 8450 11450 8850
-Connection ~ 11450 8850
-Wire Wire Line
-	11450 8850 11900 8850
-Wire Wire Line
 	10600 8450 10600 8850
 Connection ~ 10600 8850
 Wire Wire Line
 	10600 8850 11050 8850
-Wire Wire Line
-	9750 8450 9750 8850
-Connection ~ 9750 8850
-Wire Wire Line
-	9750 8850 10200 8850
 Wire Wire Line
 	8900 8450 8900 8850
 Wire Wire Line
@@ -2730,119 +2357,51 @@ Connection ~ 8900 8850
 Wire Wire Line
 	8900 8850 9350 8850
 Wire Wire Line
-	8050 8450 8050 8850
-Wire Wire Line
-	7650 8850 8050 8850
-Connection ~ 8050 8850
-Wire Wire Line
-	8050 8850 8500 8850
-Wire Wire Line
-	7200 8450 7200 8850
-Connection ~ 7200 8850
-Wire Wire Line
-	7200 8850 7650 8850
-Wire Wire Line
 	11450 9150 11050 9150
 Connection ~ 11450 9150
-Connection ~ 7200 9150
-Wire Wire Line
-	7200 9150 6800 9150
 Connection ~ 7650 9150
-Wire Wire Line
-	7650 9150 7200 9150
 Connection ~ 8050 9150
 Wire Wire Line
 	8050 9150 7650 9150
 Connection ~ 8500 9150
 Wire Wire Line
 	8500 9150 8050 9150
-Connection ~ 8900 9150
-Wire Wire Line
-	8900 9150 8500 9150
 Connection ~ 9350 9150
-Wire Wire Line
-	9350 9150 8900 9150
 Connection ~ 9750 9150
 Wire Wire Line
 	9750 9150 9350 9150
 Connection ~ 10200 9150
 Wire Wire Line
 	10200 9150 9750 9150
-Connection ~ 10600 9150
-Wire Wire Line
-	10600 9150 10200 9150
 Connection ~ 11050 9150
-Wire Wire Line
-	11050 9150 10600 9150
 Wire Wire Line
 	11450 9350 11450 9750
 Wire Wire Line
 	11450 9750 11050 9750
 Connection ~ 11050 9750
 Wire Wire Line
-	10600 9350 10600 9750
-Wire Wire Line
-	10200 9750 10600 9750
-Connection ~ 10600 9750
-Wire Wire Line
-	10600 9750 11050 9750
-Wire Wire Line
 	9750 9350 9750 9750
 Connection ~ 9750 9750
 Wire Wire Line
 	9750 9750 9350 9750
-Wire Wire Line
-	8900 9350 8900 9750
-Wire Wire Line
-	8500 9750 8900 9750
-Connection ~ 8900 9750
-Wire Wire Line
-	8900 9750 9350 9750
 Wire Wire Line
 	8050 9350 8050 9750
 Connection ~ 8050 9750
 Wire Wire Line
 	8050 9750 7650 9750
 Wire Wire Line
-	7200 9350 7200 9750
-Connection ~ 7200 9750
-Wire Wire Line
-	7200 9750 6800 9750
-Wire Wire Line
 	11900 6450 12350 6450
 Connection ~ 12350 6450
 Wire Wire Line
 	12350 6450 12650 6450
 Wire Wire Line
-	11050 6450 11550 6450
-Connection ~ 11550 6450
-Wire Wire Line
-	11550 6450 11900 6450
-Wire Wire Line
 	10200 6450 10700 6450
 Connection ~ 10700 6450
 Wire Wire Line
 	10700 6450 11050 6450
-Wire Wire Line
-	9350 6450 9850 6450
-Connection ~ 9850 6450
-Wire Wire Line
-	9850 6450 10200 6450
-Wire Wire Line
-	8500 6450 9000 6450
 Connection ~ 9000 6450
 Wire Wire Line
 	9000 6450 9350 6450
-Wire Wire Line
-	7650 6450 8150 6450
-Connection ~ 8150 6450
-Wire Wire Line
-	8150 6450 8500 6450
-Wire Wire Line
-	6800 6450 7300 6450
-Connection ~ 7300 6450
-Wire Wire Line
-	7300 6450 7650 6450
 Wire Wire Line
 	6200 7050 6800 7050
 Wire Wire Line
@@ -2865,14 +2424,192 @@ Connection ~ 2250 1750
 Wire Wire Line
 	2250 1750 2150 1750
 $Comp
-L reversible-kicad-symbols:HRO-TYPE-C-31-M-12-HandSoldering-NoSBU J2
+L reversible-kicad-symbols:HRO-TYPE-C-31-M-12-HandSoldering-NoSBU J1
 U 1 1 60997110
 P 1400 1750
-F 0 "J2" H 1507 2617 50  0000 C CNN
+F 0 "J1" H 1507 2617 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 1507 2526 50  0000 C CNN
 F 2 "reversible-kicad-footprints:HRO-TYPE-C-31-M-12-HandSoldering-NoSBU" H 1550 1750 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1550 1750 50  0001 C CNN
 	1    1400 1750
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 60142F2E
+P 7300 7200
+F 0 "H1" H 7400 7246 50  0000 L CNN
+F 1 "MountingHole" H 7400 7155 50  0000 L CNN
+F 2 "kbd:M2_HOLE_v3" H 7300 7200 50  0001 C CNN
+F 3 "~" H 7300 7200 50  0001 C CNN
+	1    7300 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6014377E
+P 11550 7200
+F 0 "H2" H 11650 7246 50  0000 L CNN
+F 1 "MountingHole" H 11650 7155 50  0000 L CNN
+F 2 "kbd:M2_HOLE_v3" H 11550 7200 50  0001 C CNN
+F 3 "~" H 11550 7200 50  0001 C CNN
+	1    11550 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 601447C9
+P 7300 9000
+F 0 "H4" H 7400 9046 50  0000 L CNN
+F 1 "MountingHole" H 7400 8955 50  0000 L CNN
+F 2 "kbd:M2_HOLE_v3" H 7300 9000 50  0001 C CNN
+F 3 "~" H 7300 9000 50  0001 C CNN
+	1    7300 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 60144BAA
+P 10600 9000
+F 0 "H5" H 10700 9046 50  0000 L CNN
+F 1 "MountingHole" H 10700 8955 50  0000 L CNN
+F 2 "kbd:M2_HOLE_v3" H 10600 9000 50  0001 C CNN
+F 3 "~" H 10600 9000 50  0001 C CNN
+	1    10600 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6014527C
+P 9300 8100
+F 0 "H3" H 9400 8146 50  0000 L CNN
+F 1 "MountingHole" H 9400 8055 50  0000 L CNN
+F 2 "kbd:M2_HOLE_v3" H 9300 8100 50  0001 C CNN
+F 3 "~" H 9300 8100 50  0001 C CNN
+	1    9300 8100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10800 5400 11800 5400
+Wire Wire Line
+	10800 6000 11800 6000
+Wire Wire Line
+	8850 5400 9800 5400
+Wire Wire Line
+	8850 6000 9800 6000
+Wire Wire Line
+	11050 6450 11900 6450
+Wire Wire Line
+	11050 7050 11900 7050
+Wire Wire Line
+	9350 6450 10200 6450
+Wire Wire Line
+	8500 6450 9000 6450
+Connection ~ 8500 6450
+Wire Wire Line
+	8500 7050 9000 7050
+Connection ~ 8500 7050
+$Comp
+L kb-split-rescue:YS-SK6812MINI-E-kbd LED7
+U 1 1 60296775
+P 8500 6750
+F 0 "LED7" V 8850 6700 29  0000 L CNN
+F 1 "YS-SK6812MINI-E" V 8900 6550 29  0000 L CNN
+F 2 "reversible-kicad-footprints:MX-1U-SK6812Mini-E" H 8600 6500 50  0001 C CNN
+F 3 "" H 8600 6500 50  0001 C CNN
+	1    8500 6750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7650 6450 8500 6450
+Wire Wire Line
+	7650 7050 8500 7050
+Wire Wire Line
+	6800 6450 7650 6450
+Wire Wire Line
+	6800 7050 7650 7050
+Wire Wire Line
+	11050 7350 11900 7350
+Wire Wire Line
+	9350 7350 8850 7350
+Connection ~ 9350 7350
+Wire Wire Line
+	8850 7950 9350 7950
+Connection ~ 9350 7950
+$Comp
+L kb-split-rescue:YS-SK6812MINI-E-kbd LED15
+U 1 1 602ACE87
+P 9350 7650
+F 0 "LED15" V 9700 7600 29  0000 L CNN
+F 1 "YS-SK6812MINI-E" V 9750 7450 29  0000 L CNN
+F 2 "reversible-kicad-footprints:MX-1U-SK6812Mini-E" H 9450 7400 50  0001 C CNN
+F 3 "" H 9450 7400 50  0001 C CNN
+	1    9350 7650
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	11400 7950 11900 7950
+Wire Wire Line
+	11050 7950 11400 7950
+Connection ~ 11400 7950
+Wire Wire Line
+	11400 7550 11400 7950
+Wire Wire Line
+	9350 7350 10200 7350
+Wire Wire Line
+	9350 7950 10200 7950
+Wire Wire Line
+	7650 7350 8500 7350
+Wire Wire Line
+	7650 7950 8500 7950
+Wire Wire Line
+	6800 7350 7650 7350
+Wire Wire Line
+	6800 7950 7650 7950
+Wire Wire Line
+	11050 8250 11900 8250
+Wire Wire Line
+	10600 8250 11050 8250
+Wire Wire Line
+	10200 8250 10600 8250
+Connection ~ 10600 8250
+$Comp
+L Device:C_Small C17
+U 1 1 602D1BC2
+P 10600 8350
+F 0 "C17" H 10692 8396 50  0000 L CNN
+F 1 "0.1uF" H 10692 8305 50  0000 L CNN
+F 2 "reversible-kicad-footprints:C-0805_2012Metric" H 10600 8350 50  0001 C CNN
+F 3 "~" H 10600 8350 50  0001 C CNN
+	1    10600 8350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11050 8850 11900 8850
+Wire Wire Line
+	9350 8250 10200 8250
+Wire Wire Line
+	9350 8850 10200 8850
+Wire Wire Line
+	7650 8250 8500 8250
+Wire Wire Line
+	7650 8850 8500 8850
+Wire Wire Line
+	6800 8250 7650 8250
+Wire Wire Line
+	6800 8850 7650 8850
+Wire Wire Line
+	9350 7050 10200 7050
+Wire Wire Line
+	10200 9150 11050 9150
+Wire Wire Line
+	10200 9750 11050 9750
+Wire Wire Line
+	8500 9150 9350 9150
+Wire Wire Line
+	8500 9750 9350 9750
+Wire Wire Line
+	6800 9150 7650 9150
+Wire Wire Line
+	6800 9750 7650 9750
 $EndSCHEMATC

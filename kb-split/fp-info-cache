@@ -1,4 +1,4 @@
-19579509513385668
+19581114769172668
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84069,6 +84069,13 @@ Layout
 0
 0
 0
+intositeme
+MX-1U-Hotswap
+1U Kailh MX Hotswap
+
+0
+20
+2
 intositeme
 Reversible-Crystal_SMD_3225-4pin_3.2x2.5mm
 SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
