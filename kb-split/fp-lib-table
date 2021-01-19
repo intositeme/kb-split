@@ -4,4 +4,5 @@
   (lib (name keyswitches)(type KiCad)(uri /Users/iz/kb-split/keyswitches.pretty)(options "")(descr ""))
   (lib (name intositeme)(type KiCad)(uri /Users/iz/kb-split/intositeme-kicad-library/intositeme.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri /Users/iz/kb-split/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name reversible-kicad-footprints)(type KiCad)(uri /Users/iz/kb-split/reversible-kicad/reversible-kicad-footprints)(options "")(descr ""))
 )
