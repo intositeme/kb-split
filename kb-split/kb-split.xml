@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/iz/kb-split/kb-split/kb-split.sch</source>
+    <date>2021 January 21, Thursday 01:19:15</date>
+    <tool>Eeschema (5.1.9-0-10_14)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>kb-split.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600848D9</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6003B04C</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600381F1</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600371E3</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600934B0</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600934A6</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6009349C</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60093492</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60093488</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6009347E</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6008EC20</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6008EC16</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6008EC0C</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6008EC02</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3C58</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3C72</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3C7C</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3C86</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3C90</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3C9A</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CA4</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CAE</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CB8</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CC2</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CCC</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CD6</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CE0</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600F3CEA</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFCBC</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFCD6</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFCE0</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFCEA</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFCF4</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFCFE</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFD08</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFD12</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFD1C</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFD26</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFD30</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600FFD3A</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601091EA</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60109204</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010920E</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60109218</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60109222</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010922C</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60109236</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60109240</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010924A</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60109254</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:MX-1U-Hotswap</footprint>
+      <libsource lib="kb-split-rescue" part="SW_PUSH-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6010925E</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60109268</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>Rotary_Encoder_Switch</value>
+      <footprint>reversible-kicad-footprints:MX-1U-EC11_Switch</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Rotary_Encoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6012ADC9</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D_Small</value>
+      <footprint>reversible-kicad-footprints:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6014A155</tstamp>
+    </comp>
+    <comp ref="LED4">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601E108C</tstamp>
+    </comp>
+    <comp ref="LED3">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6024CF34</tstamp>
+    </comp>
+    <comp ref="LED2">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6024D6B6</tstamp>
+    </comp>
+    <comp ref="LED5">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60271541</tstamp>
+    </comp>
+    <comp ref="LED6">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60296291</tstamp>
+    </comp>
+    <comp ref="LED8">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6029677F</tstamp>
+    </comp>
+    <comp ref="LED18">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602ACE59</tstamp>
+    </comp>
+    <comp ref="LED17">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602ACE73</tstamp>
+    </comp>
+    <comp ref="LED16">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602ACE7D</tstamp>
+    </comp>
+    <comp ref="LED14">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602ACE91</tstamp>
+    </comp>
+    <comp ref="LED13">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602ACE9B</tstamp>
+    </comp>
+    <comp ref="LED12">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602ACEA5</tstamp>
+    </comp>
+    <comp ref="LED19">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602BA1D6</tstamp>
+    </comp>
+    <comp ref="LED20">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602BA1F0</tstamp>
+    </comp>
+    <comp ref="LED21">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602BA1FA</tstamp>
+    </comp>
+    <comp ref="LED22">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602BA204</tstamp>
+    </comp>
+    <comp ref="LED23">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602BA20E</tstamp>
+    </comp>
+    <comp ref="LED24">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602BA218</tstamp>
+    </comp>
+    <comp ref="LED25">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602BA222</tstamp>
+    </comp>
+    <comp ref="LED31">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602C337D</tstamp>
+    </comp>
+    <comp ref="LED30">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602C3397</tstamp>
+    </comp>
+    <comp ref="LED29">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602C33A1</tstamp>
+    </comp>
+    <comp ref="LED28">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602C33AB</tstamp>
+    </comp>
+    <comp ref="LED27">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602C33B5</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6088D94E</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>ATmega32U4-AU</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-AU" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600AE033</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>reversible-kicad-footprints:R-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6020D1F2</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>reversible-kicad-footprints:R-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6023500F</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>22</value>
+      <footprint>reversible-kicad-footprints:R-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60235BD0</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse_Small</value>
+      <footprint>reversible-kicad-footprints:Fuse_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602E4844</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>reversible-kicad-footprints:R-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603AE881</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>reversible-kicad-footprints:R-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603DCBFB</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60534B4F</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6056663E</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60567D40</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605681A2</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605684DC</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_GND24_Small</value>
+      <footprint>intositeme:Reversible-Crystal_SMD_3225-4pin_3.2x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60606A0E</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>22pF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60675D21</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>22pF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60692D58</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_PUSH</value>
+      <footprint>reversible-kicad-footprints:SMD_Push</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60820895</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>reversible-kicad-footprints:R-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6085C066</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>SRV05-4</value>
+      <footprint>reversible-kicad-footprints:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6008DEF3</tstamp>
+    </comp>
+    <comp ref="LED11">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6029CF7A</tstamp>
+    </comp>
+    <comp ref="LED10">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6029CF70</tstamp>
+    </comp>
+    <comp ref="LED9">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6029CF56</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602255B6</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602771A9</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60293F63</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602B3EDD</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602B3EFF</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602B3F13</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602F20D9</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603118AA</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603118BE</tstamp>
+    </comp>
+    <comp ref="ISP1">
+      <value>Conn_02x03</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F70197</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602D1BD6</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602D1BA0</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>reversible-kicad-footprints:HRO-TYPE-C-31-M-12-HandSoldering-NoSBU</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="reversible-kicad-symbols" part="HRO-TYPE-C-31-M-12-HandSoldering-NoSBU" description="USB 2.0-only Type-C Receptacle connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60997110</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>kbd:M2_HOLE_v3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60142F2E</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>kbd:M2_HOLE_v3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6014377E</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>kbd:M2_HOLE_v3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601447C9</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>kbd:M2_HOLE_v3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60144BAA</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>kbd:M2_HOLE_v3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6014527C</tstamp>
+    </comp>
+    <comp ref="LED7">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60296775</tstamp>
+    </comp>
+    <comp ref="LED15">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602ACE87</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>reversible-kicad-footprints:C-0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602D1BC2</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6024DBEF</tstamp>
+    </comp>
+    <comp ref="LED26">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>reversible-kicad-footprints:MX-1U-SK6812Mini-E</footprint>
+      <libsource lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>602C33BF</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Rotary_Encoder_Switch">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs, with switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder_Switch</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega16U4-AU">
+      <aliases>
+        <alias>ATmega16U4RC-AU</alias>
+        <alias>ATmega32U4-AU</alias>
+        <alias>ATmega32U4RC-AU</alias>
+      </aliases>
+      <description>16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, TQFP-44</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
+      <footprints>
+        <fp>TQFP*10x10mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega16U4-AU</field>
+        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="BiDi"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="BiDi"/>
+        <pin num="4" name="D+" type="BiDi"/>
+        <pin num="5" name="UGND" type="passive"/>
+        <pin num="6" name="UCAP" type="passive"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="BiDi"/>
+        <pin num="9" name="PB1" type="BiDi"/>
+        <pin num="10" name="PB2" type="BiDi"/>
+        <pin num="11" name="PB3" type="BiDi"/>
+        <pin num="12" name="PB7" type="BiDi"/>
+        <pin num="13" name="~RESET" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="BiDi"/>
+        <pin num="19" name="PD1" type="BiDi"/>
+        <pin num="20" name="PD2" type="BiDi"/>
+        <pin num="21" name="PD3" type="BiDi"/>
+        <pin num="22" name="PD5" type="BiDi"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="BiDi"/>
+        <pin num="26" name="PD6" type="BiDi"/>
+        <pin num="27" name="PD7" type="BiDi"/>
+        <pin num="28" name="PB4" type="BiDi"/>
+        <pin num="29" name="PB5" type="BiDi"/>
+        <pin num="30" name="PB6" type="BiDi"/>
+        <pin num="31" name="PC6" type="BiDi"/>
+        <pin num="32" name="PC7" type="BiDi"/>
+        <pin num="33" name="~HWB~/PE2" type="BiDi"/>
+        <pin num="34" name="VCC" type="passive"/>
+        <pin num="35" name="GND" type="passive"/>
+        <pin num="36" name="PF7" type="BiDi"/>
+        <pin num="37" name="PF6" type="BiDi"/>
+        <pin num="38" name="PF5" type="BiDi"/>
+        <pin num="39" name="PF4" type="BiDi"/>
+        <pin num="40" name="PF1" type="BiDi"/>
+        <pin num="41" name="PF0" type="BiDi"/>
+        <pin num="42" name="AREF" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="AVCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="Power_Protection" part="SRV05-4">
+      <description>ESD Protection Diodes with Low Clamping Voltage, SOT-23-6</description>
+      <docs>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kb-split-rescue" part="SW_PUSH-kbd">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH-kbd</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kb-split-rescue" part="YS-SK6812MINI-E-kbd">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">YS-SK6812MINI-E-kbd</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kbd" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="reversible-kicad-symbols" part="HRO-TYPE-C-31-M-12-HandSoldering-NoSBU">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HRO-TYPE-C-31-M-12-HandSoldering-NoSBU</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_in"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="BiDi"/>
+        <pin num="A6" name="D+" type="BiDi"/>
+        <pin num="A7" name="D-" type="BiDi"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="BiDi"/>
+        <pin num="B6" name="D+" type="BiDi"/>
+        <pin num="B7" name="D-" type="BiDi"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Library/Application Support/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>/Library/Application Support/kicad/library/MCU_Microchip_ATmega.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Library/Application Support/kicad/library/Mechanical.lib</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/Library/Application Support/kicad/library/Power_Protection.lib</uri>
+    </library>
+    <library logical="kb-split-rescue">
+      <uri>/Users/iz/kb-split/kb-split/kb-split-rescue.lib</uri>
+    </library>
+    <library logical="kbd">
+      <uri>/Users/iz/kb-split/kbd/kicad-symbols/kbd.lib</uri>
+    </library>
+    <library logical="reversible-kicad-symbols">
+      <uri>/Users/iz/kb-split/reversible-kicad/reversible-kicad-symbols.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D6-Pad2)">
+      <node ref="SW6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="4" name="COL6">
+      <node ref="SW15" pin="S2"/>
+      <node ref="U2" pin="27"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="SW14" pin="1"/>
+    </net>
+    <net code="5" name="Net-(D7-Pad2)">
+      <node ref="SW7" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D5-Pad2)">
+      <node ref="SW5" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad2)">
+      <node ref="SW3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="SW4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="9" name="ROW0">
+      <node ref="D1" pin="1"/>
+      <node ref="U2" pin="26"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D5" pin="1"/>
+    </net>
+    <net code="10" name="ROW1">
+      <node ref="D11" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="U2" pin="28"/>
+      <node ref="D8" pin="1"/>
+    </net>
+    <net code="11" name="Net-(D9-Pad2)">
+      <node ref="SW9" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="SW8" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D13-Pad2)">
+      <node ref="SW13" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D14-Pad2)">
+      <node ref="SW14" pin="2"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="15" name="COL4">
+      <node ref="SW27" pin="1"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="U2" pin="41"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW20" pin="1"/>
+    </net>
+    <net code="16" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="SW12" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="18" name="COL3">
+      <node ref="SW19" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW26" pin="1"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="19" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="SW11" pin="2"/>
+    </net>
+    <net code="20" name="ROW2">
+      <node ref="D16" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="U2" pin="29"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D19" pin="1"/>
+    </net>
+    <net code="21" name="Net-(D16-Pad2)">
+      <node ref="SW17" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D15-Pad2)">
+      <node ref="SW16" pin="2"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="23" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="SW21" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2"/>
+      <node ref="SW18" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2"/>
+      <node ref="SW19" pin="2"/>
+    </net>
+    <net code="27" name="ROW3">
+      <node ref="D27" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D25" pin="1"/>
+      <node ref="U2" pin="25"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D22" pin="1"/>
+    </net>
+    <net code="28" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="SW24" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="SW23" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D27-Pad2)">
+      <node ref="SW28" pin="2"/>
+      <node ref="D27" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2"/>
+      <node ref="SW27" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2"/>
+      <node ref="SW25" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2"/>
+      <node ref="SW26" pin="2"/>
+    </net>
+    <net code="34" name="ENC0">
+      <node ref="U2" pin="40"/>
+      <node ref="SW15" pin="A"/>
+    </net>
+    <net code="35" name="ENC1">
+      <node ref="U2" pin="39"/>
+      <node ref="SW15" pin="B"/>
+    </net>
+    <net code="36" name="Net-(D21-Pad2)">
+      <node ref="SW15" pin="S1"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="37" name="Net-(LED15-Pad4)">
+      <node ref="LED15" pin="4"/>
+      <node ref="LED3" pin="2"/>
+    </net>
+    <net code="38" name="Net-(LED3-Pad3)">
+      <node ref="LED3" pin="3"/>
+    </net>
+    <net code="39" name="Net-(LED16-Pad2)">
+      <node ref="LED3" pin="4"/>
+      <node ref="LED16" pin="2"/>
+    </net>
+    <net code="40" name="Net-(LED2-Pad2)">
+      <node ref="LED28" pin="4"/>
+      <node ref="LED2" pin="2"/>
+    </net>
+    <net code="41" name="Net-(LED2-Pad4)">
+      <node ref="LED2" pin="4"/>
+      <node ref="LED29" pin="2"/>
+    </net>
+    <net code="42" name="Net-(LED12-Pad2)">
+      <node ref="LED5" pin="4"/>
+      <node ref="LED12" pin="2"/>
+    </net>
+    <net code="43" name="Net-(LED5-Pad2)">
+      <node ref="LED6" pin="4"/>
+      <node ref="LED5" pin="2"/>
+    </net>
+    <net code="44" name="Net-(LED18-Pad2)">
+      <node ref="LED4" pin="4"/>
+      <node ref="LED18" pin="2"/>
+    </net>
+    <net code="45" name="Net-(LED17-Pad4)">
+      <node ref="LED4" pin="2"/>
+      <node ref="LED17" pin="4"/>
+    </net>
+    <net code="46" name="Net-(LED16-Pad4)">
+      <node ref="LED16" pin="4"/>
+      <node ref="LED17" pin="2"/>
+    </net>
+    <net code="47" name="Net-(LED13-Pad4)">
+      <node ref="LED13" pin="4"/>
+      <node ref="LED14" pin="2"/>
+    </net>
+    <net code="48" name="Net-(LED12-Pad4)">
+      <node ref="LED12" pin="4"/>
+      <node ref="LED13" pin="2"/>
+    </net>
+    <net code="49" name="Net-(LED1-Pad4)">
+      <node ref="LED19" pin="2"/>
+      <node ref="LED1" pin="4"/>
+    </net>
+    <net code="50" name="Net-(LED20-Pad2)">
+      <node ref="LED21" pin="4"/>
+      <node ref="LED20" pin="2"/>
+    </net>
+    <net code="51" name="Net-(LED21-Pad2)">
+      <node ref="LED22" pin="4"/>
+      <node ref="LED21" pin="2"/>
+    </net>
+    <net code="52" name="Net-(LED22-Pad2)">
+      <node ref="LED23" pin="4"/>
+      <node ref="LED22" pin="2"/>
+    </net>
+    <net code="53" name="Net-(LED23-Pad2)">
+      <node ref="LED23" pin="2"/>
+      <node ref="LED24" pin="4"/>
+    </net>
+    <net code="54" name="Net-(LED18-Pad4)">
+      <node ref="LED25" pin="2"/>
+      <node ref="LED18" pin="4"/>
+    </net>
+    <net code="55" name="Net-(LED24-Pad2)">
+      <node ref="LED24" pin="2"/>
+      <node ref="LED25" pin="4"/>
+    </net>
+    <net code="56" name="LED">
+      <node ref="U2" pin="42"/>
+      <node ref="LED31" pin="4"/>
+    </net>
+    <net code="57" name="Net-(LED30-Pad4)">
+      <node ref="LED31" pin="2"/>
+      <node ref="LED30" pin="4"/>
+    </net>
+    <net code="58" name="Net-(LED29-Pad4)">
+      <node ref="LED30" pin="2"/>
+      <node ref="LED29" pin="4"/>
+    </net>
+    <net code="59" name="Net-(LED27-Pad4)">
+      <node ref="LED27" pin="4"/>
+      <node ref="LED28" pin="2"/>
+    </net>
+    <net code="60" name="SERIAL">
+      <node ref="U2" pin="20"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="61" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="62" name="Net-(U2-Pad12)">
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="63" name="XTAL2">
+      <node ref="U2" pin="16"/>
+      <node ref="C2" pin="2"/>
+      <node ref="Y1" pin="3"/>
+    </net>
+    <net code="64" name="XTAL1">
+      <node ref="U2" pin="17"/>
+      <node ref="C1" pin="2"/>
+      <node ref="Y1" pin="1"/>
+    </net>
+    <net code="65" name="Net-(U2-Pad18)">
+      <node ref="U2" pin="18"/>
+    </net>
+    <net code="66" name="Net-(U2-Pad19)">
+      <node ref="U2" pin="19"/>
+    </net>
+    <net code="67" name="Net-(U2-Pad21)">
+      <node ref="U2" pin="21"/>
+    </net>
+    <net code="68" name="Net-(U2-Pad22)">
+      <node ref="U2" pin="22"/>
+    </net>
+    <net code="69" name="Net-(U2-Pad30)">
+      <node ref="U2" pin="30"/>
+    </net>
+    <net code="70" name="Net-(U2-Pad31)">
+      <node ref="U2" pin="31"/>
+    </net>
+    <net code="71" name="Net-(U2-Pad32)">
+      <node ref="U2" pin="32"/>
+    </net>
+    <net code="72" name="Net-(U2-Pad36)">
+      <node ref="U2" pin="36"/>
+    </net>
+    <net code="73" name="Net-(U2-Pad37)">
+      <node ref="U2" pin="37"/>
+    </net>
+    <net code="74" name="COL5">
+      <node ref="SW6" pin="1"/>
+      <node ref="SW13" pin="1"/>
+      <node ref="SW21" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="U2" pin="38"/>
+    </net>
+    <net code="75" name="VBUS">
+      <node ref="ISP1" pin="2"/>
+      <node ref="LED12" pin="1"/>
+      <node ref="LED24" pin="1"/>
+      <node ref="LED23" pin="1"/>
+      <node ref="LED1" pin="1"/>
+      <node ref="LED13" pin="1"/>
+      <node ref="LED26" pin="1"/>
+      <node ref="LED14" pin="1"/>
+      <node ref="LED9" pin="1"/>
+      <node ref="LED16" pin="1"/>
+      <node ref="LED17" pin="1"/>
+      <node ref="LED18" pin="1"/>
+      <node ref="LED25" pin="1"/>
+      <node ref="LED10" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="LED11" pin="1"/>
+      <node ref="LED8" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="LED22" pin="1"/>
+      <node ref="LED6" pin="1"/>
+      <node ref="LED5" pin="1"/>
+      <node ref="LED27" pin="1"/>
+      <node ref="LED19" pin="1"/>
+      <node ref="LED28" pin="1"/>
+      <node ref="LED2" pin="1"/>
+      <node ref="LED3" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="LED4" pin="1"/>
+      <node ref="LED30" pin="1"/>
+      <node ref="F1" pin="2"/>
+      <node ref="LED20" pin="1"/>
+      <node ref="LED29" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C18" pin="1"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="J1" pin="B4"/>
+      <node ref="LED7" pin="1"/>
+      <node ref="LED15" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="LED21" pin="1"/>
+      <node ref="LED31" pin="1"/>
+    </net>
+    <net code="76" name="Net-(R6-Pad1)">
+      <node ref="U2" pin="33"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="77" name="Net-(R4-Pad2)">
+      <node ref="U2" pin="4"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="78" name="Net-(R5-Pad2)">
+      <node ref="U2" pin="3"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="79" name="+5V">
+      <node ref="R3" pin="1"/>
+      <node ref="F1" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U2" pin="44"/>
+      <node ref="C6" pin="1"/>
+      <node ref="U2" pin="34"/>
+      <node ref="U2" pin="24"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U2" pin="14"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="82" name="D+">
+      <node ref="U1" pin="6"/>
+      <node ref="R4" pin="1"/>
+      <node ref="J1" pin="B6"/>
+      <node ref="J1" pin="A6"/>
+    </net>
+    <net code="83" name="Net-(J1-PadA5)">
+      <node ref="R1" pin="1"/>
+      <node ref="J1" pin="A5"/>
+    </net>
+    <net code="84" name="Net-(J1-PadB5)">
+      <node ref="R2" pin="1"/>
+      <node ref="J1" pin="B5"/>
+    </net>
+    <net code="85" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="86" name="D-">
+      <node ref="J1" pin="A7"/>
+      <node ref="R5" pin="1"/>
+      <node ref="J1" pin="B7"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="87" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="88" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="89" name="Net-(LED11-Pad2)">
+      <node ref="LED11" pin="2"/>
+    </net>
+    <net code="90" name="Net-(LED10-Pad2)">
+      <node ref="LED11" pin="4"/>
+      <node ref="LED10" pin="2"/>
+    </net>
+    <net code="91" name="Net-(LED10-Pad4)">
+      <node ref="LED10" pin="4"/>
+      <node ref="LED9" pin="2"/>
+    </net>
+    <net code="92" name="Net-(LED8-Pad2)">
+      <node ref="LED8" pin="2"/>
+      <node ref="LED9" pin="4"/>
+    </net>
+    <net code="93" name="GND">
+      <node ref="LED9" pin="3"/>
+      <node ref="LED10" pin="3"/>
+      <node ref="LED11" pin="3"/>
+      <node ref="C11" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="LED24" pin="3"/>
+      <node ref="C8" pin="1"/>
+      <node ref="LED13" pin="3"/>
+      <node ref="J2" pin="3"/>
+      <node ref="ISP1" pin="6"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="LED14" pin="3"/>
+      <node ref="LED31" pin="3"/>
+      <node ref="LED27" pin="3"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="LED16" pin="3"/>
+      <node ref="LED22" pin="3"/>
+      <node ref="U2" pin="15"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="LED17" pin="3"/>
+      <node ref="LED18" pin="3"/>
+      <node ref="J1" pin="S1"/>
+      <node ref="LED7" pin="3"/>
+      <node ref="LED15" pin="3"/>
+      <node ref="C17" pin="2"/>
+      <node ref="LED21" pin="3"/>
+      <node ref="SW22" pin="1"/>
+      <node ref="LED1" pin="3"/>
+      <node ref="LED26" pin="3"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="LED20" pin="3"/>
+      <node ref="LED30" pin="3"/>
+      <node ref="Y1" pin="4"/>
+      <node ref="LED29" pin="3"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="LED19" pin="3"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="LED23" pin="3"/>
+      <node ref="R6" pin="2"/>
+      <node ref="LED8" pin="3"/>
+      <node ref="U2" pin="23"/>
+      <node ref="LED6" pin="3"/>
+      <node ref="LED25" pin="3"/>
+      <node ref="SW15" pin="C"/>
+      <node ref="U2" pin="5"/>
+      <node ref="U2" pin="43"/>
+      <node ref="LED4" pin="3"/>
+      <node ref="LED2" pin="3"/>
+      <node ref="LED28" pin="3"/>
+      <node ref="U2" pin="35"/>
+      <node ref="LED12" pin="3"/>
+      <node ref="LED5" pin="3"/>
+    </net>
+    <net code="94" name="COL0">
+      <node ref="U2" pin="11"/>
+      <node ref="SW8" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="ISP1" pin="1"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="SW16" pin="1"/>
+    </net>
+    <net code="95" name="COL2">
+      <node ref="SW18" pin="1"/>
+      <node ref="SW25" pin="1"/>
+      <node ref="ISP1" pin="3"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="U2" pin="9"/>
+      <node ref="SW3" pin="1"/>
+    </net>
+    <net code="96" name="COL1">
+      <node ref="SW24" pin="1"/>
+      <node ref="SW17" pin="1"/>
+      <node ref="SW9" pin="1"/>
+      <node ref="U2" pin="10"/>
+      <node ref="ISP1" pin="4"/>
+      <node ref="SW2" pin="1"/>
+    </net>
+    <net code="97" name="RESET">
+      <node ref="ISP1" pin="5"/>
+      <node ref="U2" pin="13"/>
+      <node ref="SW22" pin="2"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="98" name="Net-(LED7-Pad2)">
+      <node ref="LED8" pin="4"/>
+      <node ref="LED7" pin="2"/>
+    </net>
+    <net code="99" name="Net-(LED6-Pad2)">
+      <node ref="LED7" pin="4"/>
+      <node ref="LED6" pin="2"/>
+    </net>
+    <net code="100" name="Net-(LED14-Pad4)">
+      <node ref="LED14" pin="4"/>
+      <node ref="LED15" pin="2"/>
+    </net>
+    <net code="101" name="Net-(LED1-Pad2)">
+      <node ref="LED20" pin="4"/>
+      <node ref="LED1" pin="2"/>
+    </net>
+    <net code="102" name="Net-(LED19-Pad4)">
+      <node ref="LED19" pin="4"/>
+      <node ref="LED26" pin="2"/>
+    </net>
+    <net code="103" name="Net-(LED26-Pad4)">
+      <node ref="LED27" pin="2"/>
+      <node ref="LED26" pin="4"/>
+    </net>
+  </nets>
+</export>
