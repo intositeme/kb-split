@@ -1,7 +1,7 @@
 (sym_lib_table
-  (lib (name keebio)(type Legacy)(uri /Users/iz/kb-split/keebio-components/keebio.lib)(options "")(descr ""))
-  (lib (name kbd)(type Legacy)(uri /Users/iz/kb-split/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri /Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri /Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
   (lib (name kb-split-rescue)(type Legacy)(uri ${KIPRJMOD}/kb-split-rescue.lib)(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type Legacy)(uri "/Users/iz/kb-split/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name reversible-kicad-symbols)(type Legacy)(uri /Users/iz/kb-split/reversible-kicad/reversible-kicad-symbols.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "/Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name reversible-kicad-symbols)(type Legacy)(uri /Users/isaacwong/Documents/myPlayLab/01_Stuff/kb-split/reversible-kicad/reversible-kicad-symbols.lib)(options "")(descr ""))
 )

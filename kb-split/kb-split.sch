@@ -1685,7 +1685,7 @@ Wire Wire Line
 Text GLabel 2200 3400 2    50   Input ~ 0
 RESET
 $Comp
-L kbd:SW_PUSH SW22
+L kb-split-rescue:SW_PUSH-kbd SW22
 U 1 1 60820895
 P 1600 3400
 F 0 "SW22" H 1600 3655 50  0000 C CNN
@@ -1996,7 +1996,7 @@ Connection ~ 2250 1750
 Wire Wire Line
 	2250 1750 2150 1750
 $Comp
-L reversible-kicad-symbols:HRO-TYPE-C-31-M-12-HandSoldering-NoSBU J1
+L kb-split-rescue:HRO-TYPE-C-31-M-12-HandSoldering-NoSBU-reversible-kicad-symbols J1
 U 1 1 60997110
 P 1400 1750
 F 0 "J1" H 1507 2617 50  0000 C CNN
@@ -2579,4 +2579,41 @@ NoConn ~ 3650 9450
 NoConn ~ 3650 9550
 NoConn ~ 3650 7650
 NoConn ~ 3650 7550
+Text GLabel 4600 5150 2    50   Input ~ 0
+SERIAL
+$Comp
+L power:+5V #PWR0103
+U 1 1 600DB243
+P 5000 5250
+F 0 "#PWR0103" H 5000 5100 50  0001 C CNN
+F 1 "+5V" H 5015 5423 50  0000 C CNN
+F 2 "" H 5000 5250 50  0001 C CNN
+F 3 "" H 5000 5250 50  0001 C CNN
+	1    5000 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 600DBDBB
+P 4600 5350
+F 0 "#PWR0104" H 4600 5100 50  0001 C CNN
+F 1 "GND" H 4605 5177 50  0000 C CNN
+F 2 "" H 4600 5350 50  0001 C CNN
+F 3 "" H 4600 5350 50  0001 C CNN
+	1    4600 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:AudioPlug3 J3
+U 1 1 600BE536
+P 4000 5250
+F 0 "J3" H 4057 5617 50  0000 C CNN
+F 1 "AudioPlug3" H 4057 5526 50  0000 C CNN
+F 2 "reversible-kicad-footprints:PJ-3136-B" H 4100 5200 50  0001 C CNN
+F 3 "~" H 4100 5200 50  0001 C CNN
+	1    4000 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 5250 5000 5250
 $EndSCHEMATC
